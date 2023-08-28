@@ -1,1 +1,1 @@
-##Contains all HTML exercises to sharpen my html basic skills
+This repository contains all HTML exercises to sharpen my html basic skills
